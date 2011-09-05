@@ -1,0 +1,13 @@
+This is a Dhammapada generating script. It prints random Dhammapada verse in Russian. 
+
+I'm using it in combination with GeekTool:
+
+http://projects.tynsoe.org/en/geektool/
+
+GeekTool allows me to print output of any command on the desktop, and I'm using this script to print Dhammapada verses.
+
+Dhammapada translation itself was taken from here:
+
+http://www.orlov-yoga.com/Dhammapada/Dhammapada.pdf
+
+Maybe somebody will find this useful too.
